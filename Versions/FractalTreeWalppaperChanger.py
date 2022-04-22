@@ -11,7 +11,7 @@ path = "C:/Users/parde/OneDrive/Programmation/Python/Projets/PY-Game/Visuel/Frac
 screen = pygame.Surface(os_size)
 
 class Branch:
-
+ 
     tree = []
     def __init__(self, startPoint, angle, size, width):
 
